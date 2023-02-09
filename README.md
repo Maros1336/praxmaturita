@@ -1,1 +1,1 @@
-# praxmaturita
+# praxmaturita.github.io
